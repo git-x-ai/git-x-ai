@@ -1,8 +1,8 @@
 <div align="center">
   
-# ✨ Hey, I'm Chloe! ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=200&section=header&text=Hey%20there!%20I'm%20Chloe%20✨&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### Full Stack Developer • UI/UX Enthusiast • Building Beautiful Things 💖
+### 💖 Full Stack Developer • UI/UX Enthusiast 💖
 
 [![Discord](https://img.shields.io/badge/Discord-FF6B9D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SW83FxMm6J)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai)
@@ -11,24 +11,26 @@
 
 ---
 
+<div align="center">
+
 ## 👋 About Me
 
-I'm a passionate developer who loves creating beautiful, modern applications with exceptional user experiences. I specialize in building desktop applications using **Electron** and crafting stunning UIs with **glassmorphism effects** and modern design principles.
+Passionate developer creating beautiful, modern applications with **Electron** & **glassmorphism** effects 💖
 
-My journey in development started with a fascination for how beautiful interfaces can make technology more accessible and enjoyable. I believe that great software isn't just about functionality—it's about creating experiences that users genuinely love to interact with.
+**📍 United States** • **She/Her** • **Learning Electron Optimization**
 
-**Currently:** Learning advanced Electron optimization & performance tuning  
-**Location:** United States 🇺🇸  
-**Pronouns:** She/Her  
-**Fun Fact:** I have a computer... 🤍
+*"I have a computer... 🤍"*
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
+## 🛠️ Tech Stack
+
 ### Languages & Frameworks
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF6B9D?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FF6B9D?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FF6B9D?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -37,6 +39,7 @@ My journey in development started with a fascination for how beautiful interface
 ![CSS3](https://img.shields.io/badge/CSS3-FF6B9D?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Design
+
 ![Git](https://img.shields.io/badge/Git-FF6B9D?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-FF6B9D?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF6B9D?style=for-the-badge&logo=figma&logoColor=white)
@@ -46,134 +49,269 @@ My journey in development started with a fascination for how beautiful interface
 
 ---
 
-## 💻 Skills & Expertise
-
-### Frontend Development
-- **Modern JavaScript/TypeScript** - ES6+, async/await, modules
-- **Electron Framework** - Cross-platform desktop applications
-- **HTML5 & CSS3** - Semantic markup, modern CSS features
-- **Responsive Design** - Mobile-first, adaptive layouts
-- **UI/UX Design** - User-centered design principles
-
-### Design & Styling
-- **Glassmorphism** - Modern glass-like UI effects
-- **CSS Animations** - Smooth transitions and micro-interactions
-- **Color Theory** - Creating cohesive, accessible color palettes
-- **Typography** - Readable, beautiful text layouts
-
-### Development Tools
-- **Version Control** - Git workflows and best practices
-- **Code Editors** - VS Code with custom configurations
-- **Package Management** - NPM, dependency management
-- **Performance Optimization** - Worker threads, efficient rendering
-
----
-
-## 🌟 Featured Project
-
 <div align="center">
 
-### 🧹 clean.me
+## 💻 Skills
 
-**One-click Windows PC cleaner with modern glassmorphism UI**
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6B9D?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6B9D?style=flat-square&logo=typescript)
+![Electron](https://img.shields.io/badge/Electron-FF6B9D?style=flat-square&logo=electron)
+![HTML5](https://img.shields.io/badge/HTML5-FF6B9D?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-FF6B9D?style=flat-square&logo=css3)
 
-Built with **Electron 38.1.2** • Liquid glass effects • Worker threads
+</td>
+<td align="center" width="50%">
+  
+### Design
+![Glassmorphism](https://img.shields.io/badge/Glassmorphism-FF6B9D?style=flat-square)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6B9D?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-FF6B9D?style=flat-square&logo=figma)
+![Animations](https://img.shields.io/badge/Animations-FF6B9D?style=flat-square)
 
-Safely removes temporary files, browser cache, and system junk with a beautiful, modern interface.
-
-#### Key Features
-- ✨ **Modern Glassmorphism UI** - Beautiful liquid glass effects
-- ⚡ **Performance Optimized** - Worker threads for smooth operation
-- 🛡️ **Safe & Secure** - Carefully removes only unnecessary files
-- 🎨 **Beautiful Design** - Modern, intuitive user interface
-- 🚀 **One-Click Cleaning** - Simple, fast, and effective
-
-#### Technologies Used
-- Electron 38.1.2
-- JavaScript/TypeScript
-- Modern CSS with glassmorphism effects
-- Worker threads for background processing
-- Native Windows integration
-
-[![View on GitHub](https://img.shields.io/badge/View_Project-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai/clean.me)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💡 Currently Working On
+<div align="center">
 
-- 🔨 **Building modern desktop applications** with Electron
-- 🎨 **Creating beautiful, accessible user interfaces** with glassmorphism
-- ⚡ **Optimizing performance** and user experience
-- 🚀 **Exploring new technologies** and frameworks
-- 📚 **Learning advanced Electron** optimization techniques
-- 🎯 **Improving code quality** and best practices
+## 🌟 Featured Project
+
+### 🧹 clean.me
+
+**One-click Windows PC cleaner with modern glassmorphism UI**
+
+<table>
+<tr>
+<td>
+
+#### ✨ Features
+- 🎨 Modern Glassmorphism UI
+- ⚡ Performance Optimized
+- 🛡️ Safe & Secure
+- 🚀 One-Click Cleaning
+
+</td>
+<td>
+
+#### 🛠️ Tech Stack
+- Electron 38.1.2
+- JavaScript/TypeScript
+- Worker Threads
+- Modern CSS
+
+</td>
+</tr>
+</table>
+
+[![View Project](https://img.shields.io/badge/View_Project-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai/clean.me)
+
+</div>
 
 ---
+
+<div align="center">
+
+## 💡 Currently Working On
+
+<table>
+<tr>
+<td align="center">
+  
+🔨 **Desktop Apps**  
+Building with Electron
+
+</td>
+<td align="center">
+  
+🎨 **UI/UX Design**  
+Glassmorphism effects
+
+</td>
+<td align="center">
+  
+⚡ **Performance**  
+Optimization & tuning
+
+</td>
+</tr>
+<tr>
+<td align="center">
+  
+🚀 **New Tech**  
+Exploring frameworks
+
+</td>
+<td align="center">
+  
+📚 **Learning**  
+Advanced Electron
+
+</td>
+<td align="center">
+  
+🎯 **Quality**  
+Best practices
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🎨 Design Philosophy
 
-I believe that great software should be:
+<table>
+<tr>
+<td align="center" width="20%">
+  
+### ✨ Beautiful
+Aesthetics matter
 
-- **Beautiful** - Aesthetics matter. Users should enjoy using your application.
-- **Intuitive** - Interfaces should be self-explanatory and easy to navigate.
-- **Performant** - Smooth, responsive experiences that feel instant.
-- **Accessible** - Software should be usable by everyone, regardless of ability.
-- **Thoughtful** - Every detail should be intentional and purposeful.
+</td>
+<td align="center" width="20%">
+  
+### 🎯 Intuitive
+Easy to navigate
 
-My approach combines modern design trends (like glassmorphism) with timeless UX principles to create applications that are both visually stunning and genuinely useful.
+</td>
+<td align="center" width="20%">
+  
+### ⚡ Performant
+Smooth & fast
+
+</td>
+<td align="center" width="20%">
+  
+### ♿ Accessible
+For everyone
+
+</td>
+<td align="center" width="20%">
+  
+### 💭 Thoughtful
+Every detail counts
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📚 Learning
+
+![Electron](https://img.shields.io/badge/Electron_Optimization-FF6B9D?style=for-the-badge)
+![CSS](https://img.shields.io/badge/Modern_CSS-FF6B9D?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript_Best_Practices-FF6B9D?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Principles-FF6B9D?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📚 What I'm Learning
+<div align="center">
 
-Currently diving deep into:
+## 🎯 Goals
 
-- **Advanced Electron Optimization** - Performance tuning, memory management
-- **Modern CSS Techniques** - Advanced animations, custom properties
-- **TypeScript Best Practices** - Type safety, advanced patterns
-- **UI/UX Design Principles** - User research, accessibility standards
-- **Performance Optimization** - Worker threads, efficient rendering
+<table>
+<tr>
+<td align="center">
+  
+🏆 **Polished Apps**  
+Production-ready
 
-Always eager to learn new technologies and improve my craft! 💪
+</td>
+<td align="center">
+  
+🌟 **Open Source**  
+Contributing
+
+</td>
+<td align="center">
+  
+📖 **Sharing**  
+Blog & tutorials
+
+</td>
+</tr>
+<tr>
+<td align="center">
+  
+🎨 **Design System**  
+Creating one
+
+</td>
+<td align="center">
+  
+🚀 **Launch**  
+Apps users love
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🎯 Goals & Aspirations
+<div align="center">
 
-- 🏆 Build more polished, production-ready applications
-- 🌟 Contribute to open-source projects
-- 📖 Share knowledge through blog posts and tutorials
-- 🎨 Create a design system for my projects
-- 🚀 Launch applications that users love
+## 💖 Interests
 
----
+🎨 Design Trends • 📱 New Apps • 🎮 Gaming • ☕ Coffee • 🌸 Beautiful Things
 
-## 💖 Interests & Hobbies
-
-When I'm not coding, I enjoy:
-
-- 🎨 Exploring design trends and UI inspiration
-- 📱 Trying out new applications and software
-- 🎮 Gaming and interactive experiences
-- ☕ Coffee and coding sessions
-- 🌸 Appreciating beautiful design in everyday life
+</div>
 
 ---
+
+<div align="center">
 
 ## 🤝 Let's Connect!
 
-I'm always open to:
+<table>
+<tr>
+<td align="center">
+  
+💬 **Collaboration**  
+Interesting projects
 
-- 💬 **Collaboration** on interesting projects
-- 💡 **Discussions** about development and design
-- 🎨 **Feedback** on my work
-- 📚 **Learning** from other developers
+</td>
+<td align="center">
+  
+💡 **Discussions**  
+Dev & design
 
-Feel free to reach out through Discord or check out my projects on GitHub!
+</td>
+<td align="center">
+  
+🎨 **Feedback**  
+On my work
 
-<div align="center">
+</td>
+<td align="center">
+  
+📚 **Learning**  
+From others
+
+</td>
+</tr>
+</table>
 
 [![Discord](https://img.shields.io/badge/Discord-FF6B9D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SW83FxMm6J)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai)
@@ -184,6 +322,8 @@ Feel free to reach out through Discord or check out my projects on GitHub!
 
 <div align="center">
   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=100&section=footer&animation=twinkling"/>
+
 ### 💖 Thanks for visiting! 💖
 
 ![Profile Views](https://komarev.com/ghpvc/?username=git-x-ai&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
