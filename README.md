@@ -15,8 +15,11 @@
 
 I'm a passionate developer who loves creating beautiful, modern applications with exceptional user experiences. I specialize in building desktop applications using **Electron** and crafting stunning UIs with **glassmorphism effects** and modern design principles.
 
+My journey in development started with a fascination for how beautiful interfaces can make technology more accessible and enjoyable. I believe that great software isn't just about functionality—it's about creating experiences that users genuinely love to interact with.
+
 **Currently:** Learning advanced Electron optimization & performance tuning  
 **Location:** United States 🇺🇸  
+**Pronouns:** She/Her  
 **Fun Fact:** I have a computer... 🤍
 
 ---
@@ -37,30 +40,32 @@ I'm a passionate developer who loves creating beautiful, modern applications wit
 ![Git](https://img.shields.io/badge/Git-FF6B9D?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-FF6B9D?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF6B9D?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-FF6B9D?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Skills & Expertise
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-x-ai&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117&border_color=FF6B9D)
+### Frontend Development
+- **Modern JavaScript/TypeScript** - ES6+, async/await, modules
+- **Electron Framework** - Cross-platform desktop applications
+- **HTML5 & CSS3** - Semantic markup, modern CSS features
+- **Responsive Design** - Mobile-first, adaptive layouts
+- **UI/UX Design** - User-centered design principles
 
-</div>
+### Design & Styling
+- **Glassmorphism** - Modern glass-like UI effects
+- **CSS Animations** - Smooth transitions and micro-interactions
+- **Color Theory** - Creating cohesive, accessible color palettes
+- **Typography** - Readable, beautiful text layouts
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-x-ai&theme=radical&hide_border=true&background=0d1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&border=FF6B9D)
-
-</div>
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-x-ai&theme=radical&hide_border=true&layout=compact&langs_count=8&title_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117&border_color=FF6B9D)
-
-</div>
+### Development Tools
+- **Version Control** - Git workflows and best practices
+- **Code Editors** - VS Code with custom configurations
+- **Package Management** - NPM, dependency management
+- **Performance Optimization** - Worker threads, efficient rendering
 
 ---
 
@@ -76,6 +81,20 @@ Built with **Electron 38.1.2** • Liquid glass effects • Worker threads
 
 Safely removes temporary files, browser cache, and system junk with a beautiful, modern interface.
 
+#### Key Features
+- ✨ **Modern Glassmorphism UI** - Beautiful liquid glass effects
+- ⚡ **Performance Optimized** - Worker threads for smooth operation
+- 🛡️ **Safe & Secure** - Carefully removes only unnecessary files
+- 🎨 **Beautiful Design** - Modern, intuitive user interface
+- 🚀 **One-Click Cleaning** - Simple, fast, and effective
+
+#### Technologies Used
+- Electron 38.1.2
+- JavaScript/TypeScript
+- Modern CSS with glassmorphism effects
+- Worker threads for background processing
+- Native Windows integration
+
 [![View on GitHub](https://img.shields.io/badge/View_Project-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai/clean.me)
 
 </div>
@@ -84,18 +103,80 @@ Safely removes temporary files, browser cache, and system junk with a beautiful,
 
 ## 💡 Currently Working On
 
-- 🔨 Building modern desktop applications with Electron
-- 🎨 Creating beautiful, accessible user interfaces
-- ⚡ Optimizing performance and user experience
-- 🚀 Exploring new technologies and frameworks
+- 🔨 **Building modern desktop applications** with Electron
+- 🎨 **Creating beautiful, accessible user interfaces** with glassmorphism
+- ⚡ **Optimizing performance** and user experience
+- 🚀 **Exploring new technologies** and frameworks
+- 📚 **Learning advanced Electron** optimization techniques
+- 🎯 **Improving code quality** and best practices
 
 ---
 
-## 📈 Contribution Activity
+## 🎨 Design Philosophy
+
+I believe that great software should be:
+
+- **Beautiful** - Aesthetics matter. Users should enjoy using your application.
+- **Intuitive** - Interfaces should be self-explanatory and easy to navigate.
+- **Performant** - Smooth, responsive experiences that feel instant.
+- **Accessible** - Software should be usable by everyone, regardless of ability.
+- **Thoughtful** - Every detail should be intentional and purposeful.
+
+My approach combines modern design trends (like glassmorphism) with timeless UX principles to create applications that are both visually stunning and genuinely useful.
+
+---
+
+## 📚 What I'm Learning
+
+Currently diving deep into:
+
+- **Advanced Electron Optimization** - Performance tuning, memory management
+- **Modern CSS Techniques** - Advanced animations, custom properties
+- **TypeScript Best Practices** - Type safety, advanced patterns
+- **UI/UX Design Principles** - User research, accessibility standards
+- **Performance Optimization** - Worker threads, efficient rendering
+
+Always eager to learn new technologies and improve my craft! 💪
+
+---
+
+## 🎯 Goals & Aspirations
+
+- 🏆 Build more polished, production-ready applications
+- 🌟 Contribute to open-source projects
+- 📖 Share knowledge through blog posts and tutorials
+- 🎨 Create a design system for my projects
+- 🚀 Launch applications that users love
+
+---
+
+## 💖 Interests & Hobbies
+
+When I'm not coding, I enjoy:
+
+- 🎨 Exploring design trends and UI inspiration
+- 📱 Trying out new applications and software
+- 🎮 Gaming and interactive experiences
+- ☕ Coffee and coding sessions
+- 🌸 Appreciating beautiful design in everyday life
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to:
+
+- 💬 **Collaboration** on interesting projects
+- 💡 **Discussions** about development and design
+- 🎨 **Feedback** on my work
+- 📚 **Learning** from other developers
+
+Feel free to reach out through Discord or check out my projects on GitHub!
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=git-x-ai&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=FF6B9D&area_color=FF6B9D)
+
+[![Discord](https://img.shields.io/badge/Discord-FF6B9D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SW83FxMm6J)
+[![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai)
 
 </div>
 
@@ -108,5 +189,7 @@ Safely removes temporary files, browser cache, and system junk with a beautiful,
 ![Profile Views](https://komarev.com/ghpvc/?username=git-x-ai&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
 
 Made with ❤️ by [Chloe](https://github.com/git-x-ai)
+
+*"I have a computer... 🤍"*
 
 </div>
