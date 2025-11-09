@@ -4,8 +4,12 @@
 
 ### 💖 Full Stack Developer • UI/UX Enthusiast 💖
 
+<div align="center">
+  
 [![Discord](https://img.shields.io/badge/Discord-FF6B9D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SW83FxMm6J)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai)
+
+</div>
 
 </div>
 
@@ -15,11 +19,19 @@
 
 ## 👋 About Me
 
+<table>
+<tr>
+<td align="center" width="100%">
+  
 Passionate developer creating beautiful, modern applications with **Electron** & **glassmorphism** effects 💖
 
 **📍 United States** • **She/Her** • **Learning Electron Optimization**
 
 *"I have a computer... 🤍"*
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -214,6 +226,39 @@ Every detail counts
 
 <div align="center">
 
+## 🌈 Inclusive Design
+
+I believe in creating technology that's **accessible, welcoming, and inclusive** for everyone.
+
+<table>
+<tr>
+<td align="center">
+  
+### ♿ Accessibility
+Designing for all abilities
+
+</td>
+<td align="center">
+  
+### 🌍 Diversity
+Welcoming all backgrounds
+
+</td>
+<td align="center">
+  
+### 💝 Empathy
+User-centered thinking
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📚 Learning
 
 ![Electron](https://img.shields.io/badge/Electron_Optimization-FF6B9D?style=for-the-badge)
@@ -272,9 +317,44 @@ Apps users love
 
 <div align="center">
 
-## 💖 Interests
+## 💖 Interests & Hobbies
 
-🎨 Design Trends • 📱 New Apps • 🎮 Gaming • ☕ Coffee • 🌸 Beautiful Things
+<table>
+<tr>
+<td align="center">
+  
+🎨 **Design Trends**  
+Exploring UI inspiration
+
+</td>
+<td align="center">
+  
+📱 **New Apps**  
+Trying new software
+
+</td>
+<td align="center">
+  
+🎮 **Gaming**  
+Interactive experiences
+
+</td>
+</tr>
+<tr>
+<td align="center">
+  
+☕ **Coffee**  
+Coding sessions
+
+</td>
+<td align="center">
+  
+🌸 **Beautiful Things**  
+Appreciating design
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -283,6 +363,8 @@ Apps users love
 <div align="center">
 
 ## 🤝 Let's Connect!
+
+I'm always open to collaboration, discussions, and learning from fellow developers!
 
 <table>
 <tr>
@@ -313,8 +395,12 @@ From others
 </tr>
 </table>
 
+<div align="center">
+  
 [![Discord](https://img.shields.io/badge/Discord-FF6B9D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SW83FxMm6J)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai)
+
+</div>
 
 </div>
 
@@ -328,8 +414,12 @@ From others
 
 ![Profile Views](https://komarev.com/ghpvc/?username=git-x-ai&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
 
+<div align="center">
+  
 Made with ❤️ by [Chloe](https://github.com/git-x-ai)
 
 *"I have a computer... 🤍"*
+
+</div>
 
 </div>
