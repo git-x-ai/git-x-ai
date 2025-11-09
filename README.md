@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chloe+%F0%9F%91%8B;Full+Stack+Developer;UI%2FUX+Enthusiast;Building+Modern+Solutions" alt="Typing SVG" />
+  <h1>Hey there! I'm Chloe 👋</h1>
+  <h3>Full Stack Developer • UI/UX Enthusiast • Building Modern Solutions</h3>
 </div>
 
 <div align="center">
@@ -47,8 +48,16 @@ const chloe = {
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-x-ai&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117)
 
+</div>
+
+<div align="center">
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-x-ai&theme=radical&hide_border=true&background=0d1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
 
+</div>
+
+<div align="center">
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-x-ai&theme=radical&hide_border=true&layout=compact&langs_count=8&title_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117)
 
 </div>
@@ -82,7 +91,7 @@ const chloe = {
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=git-x-ai&theme=redical&hide_border=true&area=true&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=FF6B9D)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=git-x-ai&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=FF6B9D)
 
 </div>
 
