@@ -4,12 +4,8 @@
 
 ### 💖 Full Stack Developer • UI/UX Enthusiast 💖
 
-<div align="center">
-  
 [![Discord](https://img.shields.io/badge/Discord-FF6B9D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SW83FxMm6J)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai)
-
-</div>
 
 </div>
 
@@ -395,12 +391,8 @@ From others
 </tr>
 </table>
 
-<div align="center">
-  
 [![Discord](https://img.shields.io/badge/Discord-FF6B9D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SW83FxMm6J)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai)
-
-</div>
 
 </div>
 
@@ -414,12 +406,8 @@ From others
 
 ![Profile Views](https://komarev.com/ghpvc/?username=git-x-ai&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
 
-<div align="center">
-  
 Made with ❤️ by [Chloe](https://github.com/git-x-ai)
 
 *"I have a computer... 🤍"*
-
-</div>
 
 </div>
