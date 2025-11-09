@@ -1,8 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=200&section=header&text=Hey%20there!%20I'm%20Chloe%20✨&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=200&section=header&text=Hey%20there!%20I'm%20Chloe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 💖 Full Stack Developer • UI/UX Enthusiast 💖
+### Full Stack Developer • UI/UX Enthusiast
 
 [![Discord](https://img.shields.io/badge/Discord-FF6B9D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SW83FxMm6J)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai)
@@ -13,17 +13,17 @@
 
 <div align="center">
 
-## 👋 About Me
+## About Me
 
 <table>
 <tr>
 <td align="center" width="100%">
   
-Passionate developer creating beautiful, modern applications with **Electron** & **glassmorphism** effects 💖
+Passionate developer creating beautiful, modern applications with **Electron** & **glassmorphism** effects.
 
-**📍 United States** • **She/Her** • **Learning Electron Optimization**
+**United States** • **She/Her** • **Learning Electron Optimization**
 
-*"I have a computer... 🤍"*
+*"I have a computer..."*
 
 </td>
 </tr>
@@ -35,7 +35,7 @@ Passionate developer creating beautiful, modern applications with **Electron** &
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 
@@ -59,7 +59,7 @@ Passionate developer creating beautiful, modern applications with **Electron** &
 
 <div align="center">
 
-## 💻 Skills
+## Skills
 
 <table>
 <tr>
@@ -91,36 +91,45 @@ Passionate developer creating beautiful, modern applications with **Electron** &
 
 <div align="center">
 
-## 🌟 Featured Project
+## Products
 
-### 🧹 clean.me
+### Onyx Pro
 
-**One-click Windows PC cleaner with modern glassmorphism UI**
+**AI IDE trial management tool** - Automated, one-click solution to maximize your AI-powered IDE free trials. Works with multiple popular development environments.
 
-<table>
-<tr>
-<td>
+**Features:** Multi-IDE support, automated process, native Windows app, privacy-focused, lifetime updates
 
-#### ✨ Features
-- 🎨 Modern Glassmorphism UI
-- ⚡ Performance Optimized
-- 🛡️ Safe & Secure
-- 🚀 One-Click Cleaning
+[![Onyx Pro](https://img.shields.io/badge/Onyx_Pro-FF6B9D?style=for-the-badge&logo=producthunt&logoColor=white)](https://ccc-suite.sellhub.cx/product/onyx-pro/)
 
-</td>
-<td>
+---
 
-#### 🛠️ Tech Stack
-- Electron 38.1.2
-- JavaScript/TypeScript
-- Worker Threads
-- Modern CSS
+### Onyx Free
 
-</td>
-</tr>
-</table>
+**Free web-based guide** - Step-by-step instructions to help you claim your AI IDE free trial. Open-source, accessible from any device.
 
-[![View Project](https://img.shields.io/badge/View_Project-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/git-x-ai/clean.me)
+**Features:** Free & open-source, step-by-step guide, web-based, no installation required, teaches you the process
+
+[![Onyx Free](https://img.shields.io/badge/Onyx_Free-FF6B9D?style=for-the-badge&logo=producthunt&logoColor=white)](https://ccc-suite.sellhub.cx/product/onyx-free/)
+
+---
+
+### LangLink
+
+**Desktop app for Cursor AI rules** - Discover, manage, and download professional-grade Cursor AI rule files effortlessly.
+
+**Features:** Browse 170+ curated .cursorrules files, one-click downloads, modern dark-themed UI, Windows x64/x86 support
+
+[![LangLink](https://img.shields.io/badge/LangLink-FF6B9D?style=for-the-badge&logo=producthunt&logoColor=white)](https://ccc-suite.sellhub.cx/product/langlink-desktop-app/)
+
+---
+
+### Pre-Activated Accounts
+
+**Instant access to fully activated accounts** - Get immediate access to pre-activated AI coding assistant accounts with automated delivery.
+
+**Features:** Fully pre-activated, instant delivery, automated via email, guaranteed to work or money back
+
+[![Pre-Activated Accounts](https://img.shields.io/badge/Pre--Activated_Accounts-FF6B9D?style=for-the-badge&logo=producthunt&logoColor=white)](https://ccc-suite.sellhub.cx/product/preactivated-acc/)
 
 </div>
 
@@ -128,50 +137,11 @@ Passionate developer creating beautiful, modern applications with **Electron** &
 
 <div align="center">
 
-## 💡 Currently Working On
+## Currently Working On
 
-<table>
-<tr>
-<td align="center">
-  
-🔨 **Desktop Apps**  
-Building with Electron
+**Onyx Pro v1.5** - Developing the next version of my AI IDE trial management tool with enhanced features and improved automation.
 
-</td>
-<td align="center">
-  
-🎨 **UI/UX Design**  
-Glassmorphism effects
-
-</td>
-<td align="center">
-  
-⚡ **Performance**  
-Optimization & tuning
-
-</td>
-</tr>
-<tr>
-<td align="center">
-  
-🚀 **New Tech**  
-Exploring frameworks
-
-</td>
-<td align="center">
-  
-📚 **Learning**  
-Advanced Electron
-
-</td>
-<td align="center">
-  
-🎯 **Quality**  
-Best practices
-
-</td>
-</tr>
-</table>
+[![Onyx Pro](https://img.shields.io/badge/Onyx_Pro_v1.5-FF6B9D?style=for-the-badge&logo=producthunt&logoColor=white)](https://ccc-suite.sellhub.cx/product/onyx-pro/)
 
 </div>
 
@@ -179,37 +149,37 @@ Best practices
 
 <div align="center">
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 <table>
 <tr>
 <td align="center" width="20%">
   
-### ✨ Beautiful
+### Beautiful
 Aesthetics matter
 
 </td>
 <td align="center" width="20%">
   
-### 🎯 Intuitive
+### Intuitive
 Easy to navigate
 
 </td>
 <td align="center" width="20%">
   
-### ⚡ Performant
+### Performant
 Smooth & fast
 
 </td>
 <td align="center" width="20%">
   
-### ♿ Accessible
+### Accessible
 For everyone
 
 </td>
 <td align="center" width="20%">
   
-### 💭 Thoughtful
+### Thoughtful
 Every detail counts
 
 </td>
@@ -222,7 +192,7 @@ Every detail counts
 
 <div align="center">
 
-## 🌈 Inclusive Design
+## Inclusive Design
 
 I believe in creating technology that's **accessible, welcoming, and inclusive** for everyone.
 
@@ -230,19 +200,19 @@ I believe in creating technology that's **accessible, welcoming, and inclusive**
 <tr>
 <td align="center">
   
-### ♿ Accessibility
+### Accessibility
 Designing for all abilities
 
 </td>
 <td align="center">
   
-### 🌍 Diversity
+### Diversity
 Welcoming all backgrounds
 
 </td>
 <td align="center">
   
-### 💝 Empathy
+### Empathy
 User-centered thinking
 
 </td>
@@ -255,7 +225,7 @@ User-centered thinking
 
 <div align="center">
 
-## 📚 Learning
+## Learning
 
 ![Electron](https://img.shields.io/badge/Electron_Optimization-FF6B9D?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/Modern_CSS-FF6B9D?style=for-the-badge)
@@ -268,25 +238,25 @@ User-centered thinking
 
 <div align="center">
 
-## 🎯 Goals
+## Goals
 
 <table>
 <tr>
 <td align="center">
   
-🏆 **Polished Apps**  
+**Polished Apps**  
 Production-ready
 
 </td>
 <td align="center">
   
-🌟 **Open Source**  
+**Open Source**  
 Contributing
 
 </td>
 <td align="center">
   
-📖 **Sharing**  
+**Sharing**  
 Blog & tutorials
 
 </td>
@@ -294,13 +264,13 @@ Blog & tutorials
 <tr>
 <td align="center">
   
-🎨 **Design System**  
+**Design System**  
 Creating one
 
 </td>
 <td align="center">
   
-🚀 **Launch**  
+**Launch**  
 Apps users love
 
 </td>
@@ -313,25 +283,25 @@ Apps users love
 
 <div align="center">
 
-## 💖 Interests & Hobbies
+## Interests & Hobbies
 
 <table>
 <tr>
 <td align="center">
   
-🎨 **Design Trends**  
+**Design Trends**  
 Exploring UI inspiration
 
 </td>
 <td align="center">
   
-📱 **New Apps**  
+**New Apps**  
 Trying new software
 
 </td>
 <td align="center">
   
-🎮 **Gaming**  
+**Gaming**  
 Interactive experiences
 
 </td>
@@ -339,13 +309,13 @@ Interactive experiences
 <tr>
 <td align="center">
   
-☕ **Coffee**  
+**Coffee**  
 Coding sessions
 
 </td>
 <td align="center">
   
-🌸 **Beautiful Things**  
+**Beautiful Things**  
 Appreciating design
 
 </td>
@@ -358,7 +328,7 @@ Appreciating design
 
 <div align="center">
 
-## 🤝 Let's Connect!
+## Let's Connect
 
 I'm always open to collaboration, discussions, and learning from fellow developers!
 
@@ -366,25 +336,25 @@ I'm always open to collaboration, discussions, and learning from fellow develope
 <tr>
 <td align="center">
   
-💬 **Collaboration**  
+**Collaboration**  
 Interesting projects
 
 </td>
 <td align="center">
   
-💡 **Discussions**  
+**Discussions**  
 Dev & design
 
 </td>
 <td align="center">
   
-🎨 **Feedback**  
+**Feedback**  
 On my work
 
 </td>
 <td align="center">
   
-📚 **Learning**  
+**Learning**  
 From others
 
 </td>
@@ -402,12 +372,12 @@ From others
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=100&section=footer&animation=twinkling"/>
 
-### 💖 Thanks for visiting! 💖
+### Thanks for visiting!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=git-x-ai&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
 
 Made with ❤️ by [Chloe](https://github.com/git-x-ai)
 
-*"I have a computer... 🤍"*
+*"I have a computer..."*
 
 </div>
