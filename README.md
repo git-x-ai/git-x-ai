@@ -11,6 +11,10 @@
 
 ### 👋 About Me
 
+I'm a passionate full-stack developer who loves creating beautiful, modern applications with a focus on exceptional user experiences. I specialize in building desktop applications using Electron and crafting stunning UIs with glassmorphism effects and modern design principles.
+
+When I'm not coding, I'm constantly learning new technologies and exploring ways to optimize performance and enhance user interactions. I believe in writing clean, maintainable code and creating software that not only works great but looks amazing too!
+
 ```javascript
 const chloe = {
   pronouns: "she" | "her",
